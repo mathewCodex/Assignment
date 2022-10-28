@@ -1,0 +1,130 @@
+  <h1> Mr Ade, SS2  class Teacher of St. Benedict high school
+</h1>
+
+
+    <table  border="1" bgColor="gray" cellspacing="0" cellpadding="10">
+        <tr>
+            <td rowspan="2">S. No.</td>
+            <td rowspan="2">Student</td>
+            <td rowspan="2">Teacher</td>
+            
+        <td colspan="5">subject</td>
+        
+        <td rowspan="2">Class</td>
+        <td  rowspan="2">Scores</td>
+    
+     </tr>
+     <tr>
+      <td>Mathematics</td>
+      <!-- <td>Age</td> -->
+      <td>English</td>
+      <td>Physics</td>
+      <td>Chemistry</td>
+      <td>Biology</td>
+     
+
+       
+     </tr>
+      <tr>
+          <td>01</td>
+          <td>Adekunle</td>
+          <td>Mr.Ade</td>
+          <td>72</td>
+          <td>43</td>
+          <td>78</td>
+          <td>73</td>
+             <td>37</td>
+             <td rowspan="9">ss2</td>
+             <td>303</td>
+      </tr>
+          <tr>
+          <td>02</td>
+          <td>John</td>
+          <td>Mr.Ade</td>
+          <td>42</td>
+          <td>64</td>
+          <td>70</td>
+          <td>55</td>
+             <td>58</td>
+             <td>289</td>
+      </tr>
+          <tr>
+          <td>03</td>
+          <td>Peter</td>
+          <td>Mr.Ade</td>
+          <td>62</td>
+          <td>40</td>
+          <td>73</td>
+          <td>75</td>
+             <td>99</td>
+             <td>349</td>
+      </tr>
+          <tr>
+          <td>04</td>
+          <td>Rukayat</td>
+          <td>Mr.Ade</td>
+          <td>77</td>
+          <td>75</td>
+          <td>78</td>
+          <td>75</td>
+             <td>82</td>
+             <td>387</td>
+      </tr>
+        <tr>
+          <td>05</td>
+          <td>Paul</td>
+          <td>Mr.Ade</td>
+          <td>72</td>
+          <td>40</td>
+          <td>72</td>
+          <td>70</td>
+          <td>97</td>
+          <td>351</td>
+      </tr>
+      <tr>
+          <td>06</td>
+          <td>Victor</td>
+          <td>Mr.Ade</td>
+          <td>76</td>
+          <td>64</td>
+          <td>48</td>
+          <td>99</td>
+          <td>37</td>
+          <td>324</td>
+      </tr>
+      <tr>
+          <td>07</td>
+          <td>John</td>
+          <td>Mr.Ade</td>
+          
+          <td>62</td>
+          <td>54</td>
+          <td>78</td>
+          <td>75</td>
+          <td>64</td>
+          <td>333</td>
+      </tr>
+      <tr>
+          <td>08</td>
+          <td>Doe</td>
+          <td>Mr.Ade</td>
+          <td>52</td>
+          <td>84</td>
+          <td>48</td>
+          <td>48</td>
+          <td>85</td>
+          <td>317</td>
+      </tr>
+      <tr>
+          <td>09</td>
+          <td>Stephen</td>
+          <td>Mr.Ade</td>
+          <td>92</td>
+          <td>44</td>
+          <td>78</td>
+          <td>65</td>
+          <td>61</td>
+          <td>340</td>
+      </tr>
+      
+    </table>
