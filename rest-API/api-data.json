@@ -1,0 +1,38 @@
+[{
+"title":"flight to Canada",
+"time": "1pm",
+"price": "$200",
+"date" : "26-06-22"
+},
+{
+  "title": "flight to Nigeria",
+  "time": "10pm",
+  "price": "$200",
+  "date": "23-06-22"
+},
+{
+  "title": "flight to United State",
+  "time": "3pm",
+  "price": "$200",
+  "date": "2-06-22"
+},
+{
+  "title": "flight to Dubai",
+  "time": "12am",
+  "price": "$200",
+  "date": "1-10-22"
+},
+{
+  "title": "flight to Spain",
+  "time": "13:00pm",
+  "price": "$200",
+  "date": "2-01-21"
+},
+{
+  "title": "flight to Ghana",
+  "time": "1pm",
+  "price": "$2000",
+  "date": "15-06-23"
+}
+
+]
